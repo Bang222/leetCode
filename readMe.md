@@ -1,0 +1,1 @@
+Vẽ hình thoai với độ dài đuongừ chép bằng với h nhập vào
