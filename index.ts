@@ -1,6 +1,6 @@
 function removeElement(nums: number[], val: number):void {
     const newNums:number[] =[]
-    for(let i = 0; i< nums.length - 1; i++)
+    for(let i:number = 0; i< nums.length - 1; i++)
     {
         if(nums[i] !== val) {
             newNums.push(nums[i]);
